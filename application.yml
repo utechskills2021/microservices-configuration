@@ -1,0 +1,2 @@
+welcome: Microservice World from Config Server
+connection: connection-string-from-config-server
